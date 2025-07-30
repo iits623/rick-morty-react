@@ -1,0 +1,32 @@
+.container-character {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 2rem;
+  font-family: serif;
+}
+.card {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #423e3e;
+  border-radius: 10px;
+  padding: 30px;
+}
+.card h3 {
+  font-size: 14px;
+  color: #fff;
+  margin: 5px;
+}
+.card p {
+  font-size: 12px;
+  color: #fff;
+  margin: 5px;
+}
+.card img {
+  width: 200px;
+}
