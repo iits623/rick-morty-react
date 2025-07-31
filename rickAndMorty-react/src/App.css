@@ -30,3 +30,13 @@
 .card img {
   width: 200px;
 }
+.text-message {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  color: black;
+  margin: 0 auto;
+}
